@@ -95,3 +95,36 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.1;
     text-wrap: balance;
 }
+
+
+
+.resume section {
+    margin-bottom: 2em;
+}
+
+.resume h2 {
+    border-bottom: 2px solid oklch(80% 3% 200);
+    padding-bottom: 0.3em;
+    margin-bottom: 0.5em;
+}
+
+.resume article {
+    margin-bottom: 1em;
+}
+
+.resume h3 {
+    margin: 0;
+}
+
+.resume time {
+    font-size: 0.9em;
+    color: gray;
+}
+
+.resume ul {
+    padding-left: 1.2em;
+}
+
+.resume li {
+    margin-bottom: 0.3em;
+}
