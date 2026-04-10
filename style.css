@@ -63,6 +63,8 @@ form label {
     display: grid;
     grid-template-columns: subgrid;
     grid-column: 1 / -1;
+    align-items: center;
+    gap: 0.5em;
 }
 
 form button {
